@@ -54,7 +54,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/etc/plmn_delta.bin:system/etc/plmn_delta.bin \
     vendor/samsung/j7ltespr/proprietary/etc/plmn_se13.bin:system/etc/plmn_se13.bin \
     vendor/samsung/j7ltespr/proprietary/etc/srm.bin:system/etc/srm.bin \
-    vendor/samsung/j7ltespr/proprietary/etc/strongswan.conf:system/etc/strongswan.conf \
     vendor/samsung/j7ltespr/proprietary/etc/T13QL_s5k3l2xx_module_info.xml:system/etc/T13QL_s5k3l2xx_module_info.xml \
     vendor/samsung/j7ltespr/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
     vendor/samsung/j7ltespr/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
@@ -234,7 +233,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/lib/libSRIBSE_Lib.so:system/lib/libSRIBSE_Lib.so \
     vendor/samsung/j7ltespr/proprietary/lib/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so \
     vendor/samsung/j7ltespr/proprietary/lib/libsthmb.so:system/lib/libsthmb.so \
-    vendor/samsung/j7ltespr/proprietary/lib/libstrongswan.so:system/lib/libstrongswan.so \
     vendor/samsung/j7ltespr/proprietary/lib/libsxqk_skia.so:system/lib/libsxqk_skia.so \
     vendor/samsung/j7ltespr/proprietary/lib/libsxqk.so:system/lib/libsxqk.so \
     vendor/samsung/j7ltespr/proprietary/lib/libterrier.so:system/lib/libterrier.so \
@@ -461,6 +459,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/vendor/lib/libtar.so:system/vendor/lib/libtar.so \
     vendor/samsung/j7ltespr/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/samsung/j7ltespr/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
+    vendor/samsung/j7ltespr/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/samsung/j7ltespr/proprietary/vendor/lib/libtzdrmgenprov.so:system/vendor/lib/libtzdrmgenprov.so \
     vendor/samsung/j7ltespr/proprietary/vendor/lib/libtzplayready.so:system/vendor/lib/libtzplayready.so \
     vendor/samsung/j7ltespr/proprietary/vendor/lib/libvcel.so:system/vendor/lib/libvcel.so \

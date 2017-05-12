@@ -16,10 +16,9 @@
 
 # Pick up overlay for features that depend on non-open-source files
 PRODUCT_PACKAGES += \
-    libtime_genoff \
-    libTimeService \
-    libqct_resampler \
+    libHevcSwDecoder \
     libmm-abl \
+    libtime_genoff \
     TimeService
 
 $(call inherit-product, vendor/samsung/j7ltespr/j7ltespr-vendor-blobs.mk)
