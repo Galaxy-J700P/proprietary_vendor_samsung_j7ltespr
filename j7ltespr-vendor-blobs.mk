@@ -131,6 +131,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/lib/lib_DNSe_NRSS_ver226.so:system/lib/lib_DNSe_NRSS_ver226.so \
     vendor/samsung/j7ltespr/proprietary/lib/lib_SA_GoogleFX_ver119k.so:system/lib/lib_SA_GoogleFX_ver119k.so \
     vendor/samsung/j7ltespr/proprietary/lib/lib_PreGainBooster_ver105.so:system/lib/lib_PreGainBooster_ver105.so \
+    vendor/samsung/j7ltespr/proprietary/lib/libprotobuf-cpp-full.so:system/lib/libprotobuf-cpp-full.so \
+    vendor/samsung/j7ltespr/proprietary/lib/libprotobuf-cpp-lite.so:system/lib/libprotobuf-cpp-lite.so \
     vendor/samsung/j7ltespr/proprietary/lib/libdirencryption.so:system/lib/libdirencryption.so \
     vendor/samsung/j7ltespr/proprietary/lib/libdmcFaceEngine.so:system/lib/libdmcFaceEngine.so \
     vendor/samsung/j7ltespr/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
