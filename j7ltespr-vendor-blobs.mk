@@ -42,6 +42,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/samsung/j7ltespr/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/samsung/j7ltespr/proprietary/bin/usbhub_init:system/bin/usbhub_init \
+    vendor/samsung/j7ltespr/proprietary/bin/wlandutservice:system/bin/wlandutservice \
     vendor/samsung/j7ltespr/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
     vendor/samsung/j7ltespr/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
     vendor/samsung/j7ltespr/proprietary/etc/B05QL_s5k5e3yx_module_info.xml:system/etc/B05QL_s5k5e3yx_module_info.xml \
