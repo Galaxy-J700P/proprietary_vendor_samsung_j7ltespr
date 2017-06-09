@@ -201,6 +201,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/lib/libsecjpegquram.so:system/lib/libsecjpegquram.so \
     vendor/samsung/j7ltespr/proprietary/lib/libsecmediarecorder_jni.so:system/lib/libsecmediarecorder_jni.so \
     vendor/samsung/j7ltespr/proprietary/lib/libSecMMCodec.so:system/lib/libSecMMCodec.so \
+    vendor/samsung/j7ltespr/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/j7ltespr/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/j7ltespr/proprietary/lib/libsecpkcs11_engine.so:system/lib/libsecpkcs11_engine.so \
     vendor/samsung/j7ltespr/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
