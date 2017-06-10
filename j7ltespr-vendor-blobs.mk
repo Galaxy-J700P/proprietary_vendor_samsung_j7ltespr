@@ -34,6 +34,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/samsung/j7ltespr/proprietary/bin/radish:system/bin/radish \
     vendor/samsung/j7ltespr/proprietary/bin/rfs_access:system/bin/rfs_access \
+    vendor/samsung/j7ltespr/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/j7ltespr/proprietary/bin/rmnetcli:system/bin/rmnetcli \
     vendor/samsung/j7ltespr/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/samsung/j7ltespr/proprietary/bin/ssr_diag:system/bin/ssr_diag \
@@ -163,6 +164,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/lib/libquramimagecodec.so:system/lib/libquramimagecodec.so \
     vendor/samsung/j7ltespr/proprietary/lib/libquramagifencoder_L.so:system/lib/libquramagifencoder_L.so \
     vendor/samsung/j7ltespr/proprietary/lib/libquramresize.so:system/lib/libquramresize.so \
+    vendor/samsung/j7ltespr/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
+    vendor/samsung/j7ltespr/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/samsung/j7ltespr/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/j7ltespr/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/samsung/j7ltespr/proprietary/lib/libsAMRNB.so:system/lib/libsAMRNB.so \
     vendor/samsung/j7ltespr/proprietary/lib/libsAMRWB.so:system/lib/libsAMRWB.so \
