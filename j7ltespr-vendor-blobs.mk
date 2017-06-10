@@ -281,7 +281,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/samsung/j7ltespr/proprietary/vendor/bin/sampleauthdaemon:system/vendor/bin/sampleauthdaemon \
     vendor/samsung/j7ltespr/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
-    vendor/samsung/j7ltespr/proprietary/vendor/etc/msm_irqbalance.conf:system/vendor/etc/msm_irqbalance.conf \
     vendor/samsung/j7ltespr/proprietary/vendor/etc/RIDL/GoldenLogmask.dmc:system/vendor/etc/RIDL/GoldenLogmask.dmc \
     vendor/samsung/j7ltespr/proprietary/vendor/etc/RIDL/qdss.cfg:system/vendor/etc/RIDL/qdss.cfg \
     vendor/samsung/j7ltespr/proprietary/vendor/etc/RIDL/RIDL.db:system/vendor/etc/RIDL/RIDL.db \
