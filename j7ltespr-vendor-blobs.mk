@@ -90,7 +90,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/lib/libbt-codec_sshd.so:system/lib/libbt-codec_sshd.so \
     vendor/samsung/j7ltespr/proprietary/lib/libbt-iopdb.so:system/lib/libbt-iopdb.so \
     vendor/samsung/j7ltespr/proprietary/lib/libbt-iopdb_mod.so:system/lib/libbt-iopdb_mod.so \
-    vendor/samsung/j7ltespr/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
     vendor/samsung/j7ltespr/proprietary/lib/libCryptionkey.so:system/lib/libCryptionkey.so \
     vendor/samsung/j7ltespr/proprietary/lib/libchromatix_s5k3l2xx_common_1080p_b.so:system/lib/libchromatix_s5k3l2xx_common_1080p_b.so \
     vendor/samsung/j7ltespr/proprietary/lib/libchromatix_s5k3l2xx_common_1080p_s.so:system/lib/libchromatix_s5k3l2xx_common_1080p_s.so \
