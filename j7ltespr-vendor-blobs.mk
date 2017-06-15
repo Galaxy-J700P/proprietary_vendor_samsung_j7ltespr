@@ -191,7 +191,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/lib/libterrier.so:system/lib/libterrier.so \
     vendor/samsung/j7ltespr/proprietary/lib/libtlc_comm.so:system/lib/libtlc_comm.so \
     vendor/samsung/j7ltespr/proprietary/lib/libTsAf.so:system/lib/libTsAf.so \
-    vendor/samsung/j7ltespr/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
+    vendor/samsung/j7ltespr/proprietary/lib/hw/camera.vendor.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
     vendor/samsung/j7ltespr/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
     vendor/samsung/j7ltespr/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/samsung/j7ltespr/proprietary/vendor/bin/sampleauthdaemon:system/vendor/bin/sampleauthdaemon \
