@@ -116,11 +116,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/lib/libface.so:system/lib/libface.so \
     vendor/samsung/j7ltespr/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
     vendor/samsung/j7ltespr/proprietary/lib/libgdmcprov.so:system/lib/libgdmcprov.so \
-    vendor/samsung/j7ltespr/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/samsung/j7ltespr/proprietary/lib/libjpega.so:system/lib/libjpega.so \
-    vendor/samsung/j7ltespr/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/samsung/j7ltespr/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
-    vendor/samsung/j7ltespr/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/samsung/j7ltespr/proprietary/lib/libmaet.so:system/lib/libmaet.so \
     vendor/samsung/j7ltespr/proprietary/lib/libMcClient.so:system/lib/libMcClient.so \
     vendor/samsung/j7ltespr/proprietary/lib/libMcRegistry.so:system/lib/libMcRegistry.so \
@@ -190,7 +186,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/lib/libtlc_comm.so:system/lib/libtlc_comm.so \
     vendor/samsung/j7ltespr/proprietary/lib/libTsAf.so:system/lib/libTsAf.so \
     vendor/samsung/j7ltespr/proprietary/lib/hw/camera.vendor.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
-    vendor/samsung/j7ltespr/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/j7ltespr/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
     vendor/samsung/j7ltespr/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/samsung/j7ltespr/proprietary/vendor/bin/sampleauthdaemon:system/vendor/bin/sampleauthdaemon \

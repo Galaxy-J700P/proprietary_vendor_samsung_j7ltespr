@@ -19,6 +19,8 @@ PRODUCT_PACKAGES += \
     libHevcSwDecoder \
     libmm-abl \
     libtime_genoff \
-    TimeService
+    TimeService \
+    libloc_api_v02 \
+    libloc_ds_api
 
 $(call inherit-product, vendor/samsung/j7ltespr/j7ltespr-vendor-blobs.mk)
