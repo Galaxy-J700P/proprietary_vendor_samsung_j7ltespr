@@ -187,7 +187,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/lib/hw/camera.vendor.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
     vendor/samsung/j7ltespr/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
     vendor/samsung/j7ltespr/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
-    vendor/samsung/j7ltespr/proprietary/vendor/bin/sampleauthdaemon:system/vendor/bin/sampleauthdaemon \
     vendor/samsung/j7ltespr/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/samsung/j7ltespr/proprietary/vendor/firmware/libpn548ad_fw.so:system/vendor/firmware/libpn548ad_fw.so \
     vendor/samsung/j7ltespr/proprietary/vendor/lib/libacdb-fts.so:system/vendor/lib/libacdb-fts.so \
