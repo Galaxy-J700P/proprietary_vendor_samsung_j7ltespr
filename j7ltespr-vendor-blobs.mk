@@ -131,8 +131,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/samsung/j7ltespr/proprietary/lib/libpalmMobileDetectorFull.so:system/lib/libpalmMobileDetectorFull.so \
     vendor/samsung/j7ltespr/proprietary/lib/libphotoeditorEngine.so:system/lib/libphotoeditorEngine.so \
-    vendor/samsung/j7ltespr/proprietary/lib/libprotobuf-cpp-full.so:system/lib/libprotobuf-cpp-full.so \
-    vendor/samsung/j7ltespr/proprietary/lib/libprotobuf-cpp-lite.so:system/lib/libprotobuf-cpp-lite.so \
     vendor/samsung/j7ltespr/proprietary/lib/libQjpeg.so:system/lib/libQjpeg.so \
     vendor/samsung/j7ltespr/proprietary/lib/libqjpegforphotoeditor.so:system/lib/libqjpegforphotoeditor.so \
     vendor/samsung/j7ltespr/proprietary/lib/libQmageDecoder.so:system/lib/libQmageDecoder.so \
