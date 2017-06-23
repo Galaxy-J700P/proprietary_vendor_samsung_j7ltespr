@@ -81,6 +81,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/lib/libatomcore.so:system/lib/libatomcore.so \
     vendor/samsung/j7ltespr/proprietary/lib/libatomjpeg.so:system/lib/libatomjpeg.so \
     vendor/samsung/j7ltespr/proprietary/lib/libatparser.so:system/lib/libatparser.so \
+    vendor/samsung/j7ltespr/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
     vendor/samsung/j7ltespr/proprietary/lib/libawb_algo_front_al.so:system/lib/libawb_algo_front_al.so \
     vendor/samsung/j7ltespr/proprietary/lib/libawb_algo_rear_al.so:system/lib/libawb_algo_rear_al.so \
     vendor/samsung/j7ltespr/proprietary/lib/libbt-aptX-ARM-4.2.2.so:system/lib/libbt-aptX-ARM-4.2.2.so \
