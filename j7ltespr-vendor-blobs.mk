@@ -141,7 +141,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/lib/libquramresize.so:system/lib/libquramresize.so \
     vendor/samsung/j7ltespr/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/j7ltespr/proprietary/lib/librilutils.so:system/lib/librilutils.so \
-    vendor/samsung/j7ltespr/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/samsung/j7ltespr/proprietary/lib/libsAMRNB.so:system/lib/libsAMRNB.so \
     vendor/samsung/j7ltespr/proprietary/lib/libsAMRWB.so:system/lib/libsAMRWB.so \
     vendor/samsung/j7ltespr/proprietary/lib/libsamsungvad.so:system/lib/libsamsungvad.so \
