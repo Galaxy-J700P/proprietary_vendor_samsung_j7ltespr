@@ -26,6 +26,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/samsung/j7ltespr/proprietary/bin/mcDriverDaemon:system/bin/mcDriverDaemon \
     vendor/samsung/j7ltespr/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
+    vendor/samsung/j7ltespr/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
     vendor/samsung/j7ltespr/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/samsung/j7ltespr/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/samsung/j7ltespr/proprietary/bin/qseecomd:system/bin/qseecomd \
