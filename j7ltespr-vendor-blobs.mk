@@ -138,7 +138,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/lib/libquramimagecodec.so:system/lib/libquramimagecodec.so \
     vendor/samsung/j7ltespr/proprietary/lib/libquramagifencoder_L.so:system/lib/libquramagifencoder_L.so \
     vendor/samsung/j7ltespr/proprietary/lib/libquramresize.so:system/lib/libquramresize.so \
-    vendor/samsung/j7ltespr/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/j7ltespr/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/j7ltespr/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/j7ltespr/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
