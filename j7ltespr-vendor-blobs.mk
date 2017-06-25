@@ -183,6 +183,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/lib/libterrier.so:system/lib/libterrier.so \
     vendor/samsung/j7ltespr/proprietary/lib/libtlc_comm.so:system/lib/libtlc_comm.so \
     vendor/samsung/j7ltespr/proprietary/lib/libTsAf.so:system/lib/libTsAf.so \
+    vendor/samsung/j7ltespr/proprietary/lib/drm/libdrmwvmplugin.so:system/lib/drm/libdrmwvmplugin.so \
     vendor/samsung/j7ltespr/proprietary/lib/hw/camera.vendor.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
     vendor/samsung/j7ltespr/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
     vendor/samsung/j7ltespr/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
@@ -198,7 +199,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7ltespr/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/samsung/j7ltespr/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
     vendor/samsung/j7ltespr/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
-    vendor/samsung/j7ltespr/proprietary/vendor/lib/libaudio-alsa.so:system/vendor/lib/libaudio-alsa.so \
+    vendor/samsung/j7ltespr/proprietary/vendor/lib/libaudioalsa.so:system/vendor/lib/libaudioalsa.so \
     vendor/samsung/j7ltespr/proprietary/vendor/lib/libavenhancements.so:system/vendor/lib/libavenhancements.so \
     vendor/samsung/j7ltespr/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
     vendor/samsung/j7ltespr/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
